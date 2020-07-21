@@ -1,8 +1,10 @@
 *__pycache__
+.mypy_cache
 *.pyc
 *.DS_Store
 *.hex
+examples/*.suit
 examples/*.cbor
-examples/*.json.txt
+examples/*.txt
 parser_examples/suit-app/BUILD/*
 parser_examples/suitloader/BUILD/*
